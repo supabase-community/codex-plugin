@@ -30,7 +30,8 @@ jobs:
             --dereference \
             .codex-plugin/plugin.json \
             .mcp.json \
-            skills/
+            skills/ \
+            assets/
 
       - name: Upload release asset
         if: ${{ steps.release.outputs.release_created }}
