@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/supabase-community/codex-plugin/compare/v0.1.2...v0.1.3) (2026-04-19)
+
+
+### Features
+
+* change category from 'Productivity' to 'Coding' ([#7](https://github.com/supabase-community/codex-plugin/issues/7)) ([70501f3](https://github.com/supabase-community/codex-plugin/commit/70501f3d6e72641ae69a14508d6c0776c1125c96))
+
 ## [0.1.2](https://github.com/supabase-community/codex-plugin/compare/v0.1.1...v0.1.2) (2026-04-19)
 
 
