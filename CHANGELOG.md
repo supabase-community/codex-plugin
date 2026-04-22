@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4](https://github.com/supabase-community/codex-plugin/compare/v0.1.3...v0.1.4) (2026-04-22)
+
+
+### Features
+
+* add X-Source-Name/Version headers and remove utm_source from MCP URL ([#10](https://github.com/supabase-community/codex-plugin/issues/10)) ([e644235](https://github.com/supabase-community/codex-plugin/commit/e644235245cbf829be13f068332c157396730f7c))
+* update X-Source-Version header in .mcp.json on release ([#12](https://github.com/supabase-community/codex-plugin/issues/12)) ([afe417a](https://github.com/supabase-community/codex-plugin/commit/afe417a02536ea581b7292fcb5d292d4f490c74a))
+
 ## [0.1.3](https://github.com/supabase-community/codex-plugin/compare/v0.1.2...v0.1.3) (2026-04-19)
 
 

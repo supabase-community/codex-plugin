@@ -4,7 +4,7 @@
     "url": "https://mcp.supabase.com/mcp",
     "headers": {
       "X-Source-Name": "codex-plugin",
-      "X-Source-Version": "0.1.3"
+      "X-Source-Version": "0.1.4"
     }
   }
 }
