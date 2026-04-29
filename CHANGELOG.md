@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.5](https://github.com/supabase-community/codex-plugin/compare/v0.1.4...v0.1.5) (2026-04-29)
+
+
+### Features
+
+* replace .mcp.json with .app.json ([#14](https://github.com/supabase-community/codex-plugin/issues/14)) ([553e8c6](https://github.com/supabase-community/codex-plugin/commit/553e8c60d2c2b4c444d0d2c69adcbc4360140f3a))
+* replace gitmodule with inline skills ([#16](https://github.com/supabase-community/codex-plugin/issues/16)) ([cf9d2c9](https://github.com/supabase-community/codex-plugin/commit/cf9d2c9fcaaf604d11e4d53424ddf62da2264275))
+
 ## [0.1.4](https://github.com/supabase-community/codex-plugin/compare/v0.1.3...v0.1.4) (2026-04-22)
 
 
